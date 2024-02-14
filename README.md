@@ -1,4 +1,5 @@
-A C++ program trying to simulate **John Horton Conway**'s Game of Life.
+A C++ program trying to simulate **John Horton Conway**'s Game of Life.<br>
+**MUST RUN AS ADMINISTRATOR**
 
 ***
 
