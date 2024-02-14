@@ -3,8 +3,8 @@ A C++ program trying to simulate **John Horton Conway**'s Game of Life.
 ***
 
 At the menu page, choose "Random Mode", "Edit Mode" or "Exit" by typing in "1", "2" or "0".
-* Random Mode:The orginal cells' living or no is random.
-* Edit Mode:The orginal cells' living or no is up to you.
+* Random Mode: The orginal cells' living or no is random.
+* Edit Mode: The orginal cells' living or no is up to you.
 
 ***
 
